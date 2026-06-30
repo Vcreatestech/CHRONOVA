@@ -1,0 +1,6 @@
+{
+  "name": "Chronova",
+  "description": "Your AI Productivity Companion. Never Miss What Matters.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
