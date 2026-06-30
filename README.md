@@ -1,20 +1,24 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
-</div>
+# Chronova
 
-# Run and deploy your AI Studio app
+**Never Miss What Matters.**
 
-This contains everything you need to run your app locally.
+Chronova is an AI-powered productivity application that helps users organize missions and stay productive using Google Gemini AI.
 
-View your app in AI Studio: https://ai.studio/apps/32173b05-2266-4667-82b3-2754eef1ceec
+## Tech Stack
+- React
+- TypeScript
+- Vite
+- Node.js
+- Express
+- Google Gemini API
+- Google Cloud
+
+## Live Demo
+https://chronova-73281502954.asia-southeast1.run.app
 
 ## Run Locally
 
-**Prerequisites:**  Node.js
-
-
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+```bash
+npm install
+npm run dev
+```
